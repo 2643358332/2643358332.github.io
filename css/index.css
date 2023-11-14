@@ -27371,17 +27371,6 @@ i:hover{
 #nav .site-page:hover{
       cursor: url('https://npm.elemecdn.com/akilar-candyassets/image/cur/hf.cur'),auto;
 }
-
-#字体修改
-@font-face{
-  font-family:'方正准圆简体' ;  /* 字体名自定义即可 */
-  src:url('/fonts/方正准圆简体.ttf'); /* 字体文件路径 */
-  font-display : swap;
-}
-
-h1#site-title {
-  font-family: '方正准圆简体', sans-serif;
-}
 .search-dialog {
   position: fixed;
   top: 5rem;
